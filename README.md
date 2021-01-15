@@ -25,7 +25,8 @@ This class runs a YO program and writes the program output to a new file . It al
 ○ It throws InvalidFileTypeException if the specified file does not have a .yo extension or the number of periods(.) in the file name is not one.      
 ○ It throws FileSystemRelatedException if an error occurs while reading or writing a file.      
 
-# Function 1: Simple Grader Objective: Implement the gradeSimple method in the Grader class.
+# Function 1: Simple Grader     
+Objective: Implement the gradeSimple method in the Grader class.
 Description: to implement a grader that grades students’ submitted codes according to the specification of an exam.     
 See below for the description of parameters and a return value of the gradeSimple method.         
 ● Parameters       
